@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-19T12:06:12 IST" name="Surefire suite" finished-at="2025-07-19T12:06:40 IST" duration-ms="28339">
+  <suite started-at="2025-07-19T12:24:04 IST" name="Surefire suite" finished-at="2025-07-19T12:24:25 IST" duration-ms="20729">
     <groups>
     </groups>
-    <test started-at="2025-07-19T12:06:12 IST" name="Surefire test" finished-at="2025-07-19T12:06:40 IST" duration-ms="28339">
+    <test started-at="2025-07-19T12:24:04 IST" name="Surefire test" finished-at="2025-07-19T12:24:25 IST" duration-ms="20729">
       <class name="testNG.OrangeHrmTest">
-        <test-method signature="openapp2()[pri:1, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:06:12 IST" name="openapp2" finished-at="2025-07-19T12:06:29 IST" duration-ms="17297" status="PASS">
+        <test-method signature="openapp2()[pri:1, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:24:04 IST" name="openapp2" finished-at="2025-07-19T12:24:13 IST" duration-ms="9398" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapp2 -->
-        <test-method signature="logotest34()[pri:2, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:06:29 IST" name="logotest34" finished-at="2025-07-19T12:06:34 IST" duration-ms="5092" status="PASS">
+        <test-method signature="logotest34()[pri:2, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:24:13 IST" name="logotest34" finished-at="2025-07-19T12:24:18 IST" duration-ms="5159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logotest34 -->
-        <test-method signature="testlogin443()[pri:3, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:06:34 IST" name="testlogin443" finished-at="2025-07-19T12:06:35 IST" duration-ms="455" status="PASS">
+        <test-method signature="testlogin443()[pri:3, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:24:18 IST" name="testlogin443" finished-at="2025-07-19T12:24:19 IST" duration-ms="768" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogin443 -->
-        <test-method signature="testlogout998()[pri:4, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:06:35 IST" name="testlogout998" finished-at="2025-07-19T12:06:40 IST" duration-ms="5375" status="PASS">
+        <test-method signature="testlogout998()[pri:4, instance:testNG.OrangeHrmTest@2b6faea6]" started-at="2025-07-19T12:24:19 IST" name="testlogout998" finished-at="2025-07-19T12:24:25 IST" duration-ms="5293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testlogout998 -->
